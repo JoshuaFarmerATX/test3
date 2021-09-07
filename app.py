@@ -23,3 +23,5 @@ print(dogs_dict[1]["name"])
 
 dogs_dict_two["name_two"] = dogs_dict[1]["name"]
 print(dogs_dict_two)
+
+# Some other things in comment
