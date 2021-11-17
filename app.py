@@ -9,11 +9,11 @@ dogs = ["Fido", "Franky", "Fitzgerald"]
 dogs_two = ["Chip", "Alf", "Filp"]
 
 dogs_dict = [{
-    "name": "Cujo",
+    "name": "Spike",
     "age": 2
 },
 {
-    "name": "Old Yeller",
+    "name": "Henry",
     "age": 4
 }]
 dogs_dict_two = {}
