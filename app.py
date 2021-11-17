@@ -13,7 +13,7 @@ dogs_dict = [{
     "age": 2
 },
 {
-    "name": "Old Yeller",
+    "name": "Old Blue",
     "age": 4
 }]
 dogs_dict_two = {}
